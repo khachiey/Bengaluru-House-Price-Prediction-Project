@@ -5,11 +5,19 @@ The dataset of Bengaluru House in this project is from kaggle: https://www.kaggl
 
 The process for Predicting:
 1.Data Cleaning
+
 2.Data Engineering
+
 3.Data Analysis
+
 4.Data Vizualization
+
 5.Model Building
+
 6.Using GridSearchCV to find the best Model
+
 7.Export the trained and tested model to a pickle file
+
 8.Backend built in Flask
+
 9.The UI built in HTML,CSS and JS
