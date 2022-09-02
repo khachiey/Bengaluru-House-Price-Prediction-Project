@@ -4,6 +4,7 @@ This project is a Machine learning  Project in Data science, it features Regress
 The dataset of Bengaluru House in this project is from kaggle: https://www.kaggle.com, The dataset contains of  features that helps in determining a price for a house
 
 The process for Predicting:
+
 1.Data Cleaning
 
 2.Data Engineering
